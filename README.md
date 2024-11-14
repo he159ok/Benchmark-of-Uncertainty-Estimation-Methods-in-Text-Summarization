@@ -53,4 +53,4 @@ To better understand PRR score, please run `./understanding_prr.py`.
 
 ### Intermediate Data
 
-Our intermediate data has been uploaded into `./total_result`. More introduction about the intermediate data will come later.
+Our intermediate data has been uploaded into a drive at [here](https://drive.google.com/file/d/1T061ZbbNee-Cpj5UxLYaHLaj4FUpqwjX/view?usp=sharing). More introduction about the intermediate data will come later.
