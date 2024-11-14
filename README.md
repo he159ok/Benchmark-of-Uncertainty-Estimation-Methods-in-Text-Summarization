@@ -54,3 +54,10 @@ To better understand PRR score, please run `./understanding_prr.py`.
 ### Intermediate Data
 
 Our intermediate data has been uploaded into a drive at [here](https://drive.google.com/file/d/1T061ZbbNee-Cpj5UxLYaHLaj4FUpqwjX/view?usp=sharing). More introduction about the intermediate data will come later.
+
+The usage of intermediate data for AESLC dataset should follow its Apache 2.0 [license](https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/summarization/aeslc.py).
+
+The usage of intermediate data for XSUM dataset should follow its MIT [license](https://github.com/EdinburghNLP/XSum/blob/master/LICENSE).
+
+The usage of intermediate data for TofuEval dataset should follow its MIT-0 [license](https://github.com/amazon-science/tofueval/blob/main/LICENSE).
+
